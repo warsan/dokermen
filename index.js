@@ -1,4 +1,6 @@
-
+import React, { Component } from 'react';
+import { render } from 'react-dom';
+import './style.css';
 gsap.registerPlugin(MotionPathPlugin);
 
 var redArm = document.querySelector("#redArm"),

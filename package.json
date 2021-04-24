@@ -2,5 +2,9 @@
   "name": "dokermen",
   "version": "0.0.0",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "react": ">=15.0.0",
+    "react-dom": ">=15.0.0",
+    "react-transition-group": "2.4.0"
+  }
 }
