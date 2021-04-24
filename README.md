@@ -1,3 +1,3 @@
 # dokermen
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/dokermen)
+[Правка на StackBlitz ⚡️](https://stackblitz.com/edit/dokermen)
