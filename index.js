@@ -1,5 +1,5 @@
 import gsap from "gsap/all";
-import './style.css';
+import '/style.css';
 gsap.registerPlugin( ScrollTrigger , Перетаскиваемый ,  MotionPathPlugin );
 
 var redArm = document.querySelector("#redArm"),
