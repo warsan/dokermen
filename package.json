@@ -1,8 +1,7 @@
 {
   "name": "dokermen",
   "scripts": {
-    "build": "babel src -d lib",
-    "test": "jest"
+    "build-project": "node build-project.js"
   },
   "version": "0.0.0",
   "private": true,
