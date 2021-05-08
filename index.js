@@ -1,6 +1,6 @@
-import gsap from "gsap/all";
+import { gsap, ScrollTrigger, Draggable, MotionPathPlugin } from "gsap/all";
 import '/style.css';
-gsap.registerPlugin( ScrollTrigger , Draggable,  MotionPathPlugin );
+gsap.registerPlugin( ScrollTrigger, Draggable, MotionPathPlugin ); 
 
 var redArm = document.querySelector("#redArm"),
     blueArm = document.querySelector("#blueArm"),
