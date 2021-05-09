@@ -13,5 +13,5 @@
     "react-transition-group": "^4.4.1"
   },
   "keywords": [],
-  "description": "Реализовано через\nGSAP 3 convertCoordinates()"
+  "description": "Реализовано через GSAP 3 convertCoordinates()"
 }
