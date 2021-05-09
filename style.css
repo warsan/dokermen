@@ -8,9 +8,9 @@ body {
   padding: 5px 15px;
   font-size: 18px;
 }
-
 h1, h2, h3 {
-  color: white;
+  margin: 1px;
+  color: rgba(100, 200, 219, 0.9);
 }
 p {
   font-weight: 300;
@@ -19,13 +19,11 @@ p {
   text-align: left;
   margin-top: 1px;
 }
-
 .joint, #wheelPath {
   stroke: black;
   fill: none;
   vector-effect: non-scaling-stroke;
 }
-
 #wheelPath {
   stroke: red;
   stroke-width: 4px;

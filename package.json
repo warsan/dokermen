@@ -1,8 +1,5 @@
 {
   "name": "dokermen",
-  "scripts": {
-    "build-project": "node build-project.js"
-  },
   "version": "0.0.0",
   "private": true,
   "dependencies": {
